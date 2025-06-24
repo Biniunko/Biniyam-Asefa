@@ -36,9 +36,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biniyamasefa&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biniunko&show_icons=true&theme=default" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniyamasefa&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniunko&theme=default" />
 </p>
 
 ---
