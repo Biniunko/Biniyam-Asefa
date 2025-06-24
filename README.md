@@ -45,7 +45,6 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 💼 LinkedIn: [linkedin.com/in/biniyam-asefa](https://linkedin.com/in/biniyam-asefa)
 - 📫 Email: [beninasefa@gmail.com](mailto:beninasefa@gmail.com)
 
