@@ -17,10 +17,13 @@
 ## 🚀 Tech Stack
 
 **Frontend:**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) !
 
 **Backend:**  
-![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Linux](https://skillicons.dev/icons?i=linux)
+![Python](https://skillicons.dev/icons?i=python) !
+[PHP](https://skillicons.dev/icons?i=php)!
+[LARAVEL](https://skillicons.dev/icons?i=laravel)!
+[Django](https://skillicons.dev/icons?i=django) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Linux](https://skillicons.dev/icons?i=linux)
 
 **Tools:**  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma)
